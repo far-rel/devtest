@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+parent:
+  name: Parent
+  external_id: MyString
+  secret_code: MyString
+  panel_provider_id: 1
+  countries: [pl]
+
+child:
+  name: Child
+  external_id: MyString
+  parent: parent
+  secret_code: MyString
+  panel_provider_id: 1
+
+child_2:
+  name: Child
+  external_id: MyString
+  parent: child
+  secret_code: MyString
+  panel_provider_id: 2
+
+child_3:
+  name: Child
+  external_id: MyString
+  parent: child
+  secret_code: MyString
+  panel_provider_id: 3

@@ -5,3 +5,13 @@ krakow:
   external_id: KR
   secret_code: "1b3d78d7-d375-4998-84b4-b17c54018662"
 
+warsaw:
+  name: Warszawa
+  external_id: WA
+  secret_code: "6bb6321c-dcb6-4181-970c-d7cafa3e2780"
+
+gdansk:
+  name: Gdansk
+  external_id: GD
+  secret_code: "2bc8a988-73ee-49cc-9679-3ce722b84fe1"
+

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  country: pl
+  panel_provider_id: 1
+  locations: [krakow, gdansk]
+
+two:
+  name: MyString
+  country: pl
+  panel_provider_id: 2
+  locations: [krakow, warsaw]
